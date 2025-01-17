@@ -36,6 +36,9 @@ body {
 .navbar {
 	height: 80px;
 	padding: 10px;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
 	background-color: #f8f8f8;
 }
 .nav-image {
